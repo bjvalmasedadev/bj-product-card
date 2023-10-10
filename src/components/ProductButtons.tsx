@@ -2,6 +2,7 @@ import React, { CSSProperties, useCallback, useContext } from 'react';
 import styles from '../styles/styles.module.css';
 import { ProductContext } from './ProductCard';
 
+// a comment
 export interface Props {
   className?: string;
   style?: CSSProperties;
